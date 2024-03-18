@@ -8,11 +8,11 @@ I have merged four old repos from 2013 with BASH scripts into one repo, for arch
 
 Because I want to **upload audio files to YouTube**.
 
-To be able to do that I must first [convert audio files into a format that will work on YouTube] [1] and I want to do that through GNU/Linux command-line.
+To be able to do that I must first [convert audio files into a format that will work on YouTube][1] and I want to do that through GNU/Linux command-line.
 
 ## WHAT?
 
-This bash shell wrapper script will take **an audio file as input** and **output a video file** ready for upload to YouTube (e.g. via command-line script [youtube-upload] [2]).
+This bash shell wrapper script will take **an audio file as input** and **output a video file** ready for upload to YouTube (e.g. via command-line script [youtube-upload][2]).
 
 Audio formats supported: MP2, MP3, LC-AAC, HE-AAC, AC3
 
@@ -30,9 +30,9 @@ You can provide as a second argument path to an `IMAGE` that you would like to u
 
 ### REQUIREMENTS
 
-1. [GNU sed] [3]
-2. [ImageMagick] [4]
-3. [FFmpeg] [5]
+1. [GNU sed][3]
+2. [ImageMagick][4]
+3. [FFmpeg][5]
 
 ### INSTALLATION
 
@@ -56,10 +56,10 @@ Example commands listed below are based on Ubuntu 12.04 LTS.
 
 This script is based on various sources from the Internet, mostly from:
 
-- [EncodeforYouTube FFmpeg wiki page] [6]
-- [FFmpeg documentation] [7]
-- [ImageMagick v6 Examples -- Text to Image Handling] [8]
-- [Advanced encoding settings] [9]
+- [EncodeforYouTube FFmpeg wiki page][6]
+- [FFmpeg documentation][7]
+- [ImageMagick v6 Examples -- Text to Image Handling][8]
+- [Advanced encoding settings][9]
 
 
 
@@ -102,7 +102,7 @@ Download entire website or a single webpage.
 
 ## MISCELLANEOUS
 
-If you don't fancy GNU/Linux command-line too much you could try [HTTrack] [10] - a free and easy-to-use offline browser utility that comes with a GUI.
+If you don't fancy GNU/Linux command-line too much you could try [HTTrack][10] - a free and easy-to-use offline browser utility that comes with a GUI.
 
 [10]: http://www.httrack.com/
     "HTTrack Website Copier website"
