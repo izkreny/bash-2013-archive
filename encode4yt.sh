@@ -24,7 +24,6 @@ case "$ext" in
         ;;
     * )
         echo "Unsuported audio format."
-        echo "Info: https://github.com/mariomaric/EncodeForYouTube#readme"
         exit 1
         ;;
 esac

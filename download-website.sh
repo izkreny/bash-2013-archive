@@ -1,5 +1,4 @@
 #!/bin/bash
-# Info: https://github.com/izkreny/download-website#readme
 
 wget \
     --recursive --level=inf \

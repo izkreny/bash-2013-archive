@@ -5,7 +5,6 @@
 if [ -z "$1" -o -z "$2" -o -z "$3" ]
 then
     echo "Please provide arguments."
-    echo "Info: https://github.com/mariomaric/filenames-conversion#readme"
     exit 1
 else
     # Initialize main parameters 
